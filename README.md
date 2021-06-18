@@ -5,7 +5,7 @@ A collection of javascript datasctructures I have learned how to create and use
 
 // Current List
 
-Linked List
-Doubly Linked List
-Stack
+Linked List -
+Doubly Linked List -
+Stack -
 Queue
